@@ -1,6 +1,6 @@
 ![Kendra Kelly Logo](/kkgithub.png)
 
-# Gotta Go - Bathroom Finder - Planning
+# Gotta Go - Bathroom Finder - Planning Repo
 
 #### By _**Kendra Kelly**_
 
