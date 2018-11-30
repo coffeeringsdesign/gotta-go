@@ -57,6 +57,9 @@ Bathroom finder by location. Focused on the needs of the person.
 ## Search Page High Res Wireframe
 ![Search Page Mockup](/sketch-files/mockup-search-page.png)
 
+## Detail Page High Res Wireframe
+![Search Page Mockup](/sketch-files/mockup-search-detail-page.png)
+
 ## Support and contact details
 
 Please feel free to get in touch. Reach out to me at kendra@coffeeringsdesign.com.
