@@ -1,0 +1,12 @@
+Welcome to Gotta Go!
+A web application created to help fulfill the basic human need of locating and accessing the nearest bathroom.
+
+Each bathroom entry includes various information about that bathroom. This includes:
+
+Access Requirements: whether it is the code needed to get in the door, or if there is a purchase requirement before access.
+
+Handicap Facilities: whether or not this particular bathroom has the needed space and facilities for handicap individuals.
+
+Gendered Status: whether the bathrooms are gender neutral or split by gender. This is to allow for safe and comfortable bathroom access for trangender, intersex, or gender non-conforming individuals.
+
+Use the search bar above to enter your location or turn on location services. The nearest restrooms to you will be displayed in a list as well as on the map for easy navigation.
