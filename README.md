@@ -35,6 +35,14 @@ Bathroom finder by location. Focused on the needs of the person.
 * Sass
 * Firebase
 
+## User Needs/Wishes:
+1.  As a user I would like to enter a location and be able to see a list of bathrooms located near me for easy access.
+2.  As a user I would like to have the app automatically render bathrooms near me by my location so that I don't have to manually search.
+3.  As a user I would like to be able to see a map and see the bathrooms near me visually represented for navigation purposes.
+4.  I would like to know of the nearest bathroom has handicap access and room for wheelchairs.
+5.  I would like to know if the bathrooms are gendered and are appropriately setup for my needs.
+6. I would like to know what I need to do to access the bathroom. Is a code needed, if so what is it? Do I need to make a purchase prior to access?
+
 ## Initial Interface Sketches:
 | Splash Page | Search Interface |
 | --------- | --------------|
