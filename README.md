@@ -35,6 +35,11 @@ Bathroom finder by location. Focused on the needs of the person.
 * Sass
 * Firebase
 
+## Initial Interface Sketches:
+| Splash Page | Search Interface |
+| --------- | --------------|
+| ![Splash Page Mockup](/mockup-splash-interface.jpeg) | ![Search Page Mockup](/mockup-search-interface.jpeg) |
+
 ## Support and contact details
 
 Please feel free to get in touch. Reach out to me at kendra@coffeeringsdesign.com.
