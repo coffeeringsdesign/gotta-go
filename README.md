@@ -1,6 +1,8 @@
 ![Kendra Kelly Logo](/kkgithub.png)
 
 # Gotta Go - Bathroom Finder - Planning Repo
+###### Application Repository: [Gotta Go Application Repository](https://github.com/coffeeringsdesign/gotta-go-bathroom-locator)
+
 
 #### By _**Kendra Kelly**_
 
